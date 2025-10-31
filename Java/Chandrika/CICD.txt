@@ -1,0 +1,3 @@
+"Certainly! We use Jenkins as our primary CI/CD tool integrated with Bitbucket for version control.
+Every time code is pushed or a pull request is created in Bitbucket, 
+Jenkins automatically triggers the pipeline."
